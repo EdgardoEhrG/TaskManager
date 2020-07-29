@@ -7,7 +7,7 @@
   },
   "author": "Edgar Ehrenberg",
   "dependencies": {
-    "apollo-server-express": "^2.9.12",
+    "apollo-server-express": "^2.14.2",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
