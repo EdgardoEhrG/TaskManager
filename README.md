@@ -4,7 +4,7 @@
 
 > GraphQL
 
-> MongoBD
+> MongoDB
 
 ## Useful elements
 
