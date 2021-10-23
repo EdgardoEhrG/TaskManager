@@ -5,3 +5,7 @@
 > GraphQL
 
 > MongoBD
+
+## Useful elements
+
+- [ ] Auth
